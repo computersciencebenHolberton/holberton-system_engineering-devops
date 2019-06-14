@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 chgrp holberton hello
+=======
+#!/bin/bash                                                                                                                                                                     chgrp holberton hello
+chown :holberton hello
+>>>>>>> d24f0b4cfe20e67c6ad0d7a891316e46629f1484
