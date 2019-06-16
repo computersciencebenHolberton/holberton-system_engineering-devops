@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < iacta >> iacta
+sort <iacta >> iacta
