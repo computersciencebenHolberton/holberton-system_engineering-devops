@@ -1,2 +1,2 @@
 #!/bin/bash
-fdsjfdh
+cat iacta | head -3 | tail -1 
