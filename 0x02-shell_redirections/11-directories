@@ -1,2 +1,2 @@
 #!/bin/bash
-du | sort 
+find . -type f -print | wc -l 
