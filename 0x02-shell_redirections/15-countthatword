@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-cat -- number
-=======
 wc -l bin /etc/passwd
->>>>>>> c76c7f317875879ff6b6d4ae899f48fd09201947
