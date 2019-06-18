@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 grep -w root /etc/passwd
-=======
-!#/bin/bash
-wc -w root /etc/passwd
->>>>>>> c76c7f317875879ff6b6d4ae899f48fd09201947
