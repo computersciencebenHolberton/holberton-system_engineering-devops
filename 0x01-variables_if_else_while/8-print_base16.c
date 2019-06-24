@@ -1,22 +1,24 @@
 #include <stdio.h>
-<<<<<<< HEAD
-=======
 /**
- * main - using the C
+ * main - number 8
  *
  * Return: Always 0
  */
 int main(void)
 {
 	int i;
+	int n;
 
 	for (i = '0'; i <= '9'; i++)
 	{
+		putchar(i);
+	}
+	for (n = 'a'; n <= 'f'; n++)
+	{
 		{
-			putchar(i);
+			putchar(n);
 		}
 	}
 	putchar('\n');
 return (0);
 }
->>>>>>> 2990b15908a515aeb38d6fad8d5417be50742718

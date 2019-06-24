@@ -1,8 +1,6 @@
 #include <stdio.h>
-<<<<<<< HEAD
-=======
 /**
- * main - using the C
+ * main - lets do 9
  *
  * Return: Always 0
  */
@@ -12,11 +10,13 @@ int main(void)
 
 	for (i = '0'; i <= '9'; i++)
 	{
+		if (i != '0')
 		{
-			putchar(i);
+			putchar(',');
+			putchar(' ');
 		}
+		putchar(i);
 	}
 	putchar('\n');
-return (0);
+	return (0);
 }
->>>>>>> 2990b15908a515aeb38d6fad8d5417be50742718
