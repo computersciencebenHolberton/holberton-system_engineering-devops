@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | wc -l
+find ./ -type d | xargs ls -l
