@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d | xargs ls -l
+ls -l | head
