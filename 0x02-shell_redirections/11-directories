@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-find . -type f -print | wc -l
-=======
-ls -lt | head
->>>>>>> 45e8838cce367e00f4eac485357c3b0aa93678d5
+ls -1 | wc -l
