@@ -1,6 +1,3 @@
-#!bin/bash
-<<<<<<< HEAD
-sort --sort=-d
-=======
-sort --sort=
->>>>>>> 45e8838cce367e00f4eac485357c3b0aa93678d5
+#!/bin/bash
+sort | uniq -u
+
