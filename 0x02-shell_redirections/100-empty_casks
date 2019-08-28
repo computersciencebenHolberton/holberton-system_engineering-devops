@@ -1,2 +1,3 @@
 #!/bin/bash
-A-Za-z "N-ZAMn za-m"
+find -empty -printf "%f\n"
+
